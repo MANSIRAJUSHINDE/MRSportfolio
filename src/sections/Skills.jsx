@@ -12,6 +12,10 @@ function Skills() {
     { name: "Express.js", icon: "devicon-express-original colored" },
     { name: "MongoDB", icon: "devicon-mongodb-plain colored" },
     { name: "SQL", icon: "devicon-mysql-plain colored" },
+    { name: "GitHub", icon: "devicon-github-original" },
+    { name: "VS Code", icon: "devicon-vscode-plain colored" },
+    { name: "Jupyter Notebook", icon: "devicon-jupyter-plain colored" },
+    { name: "REST API", icon: "devicon-fastapi-plain colored" }
   ];
 
   return (

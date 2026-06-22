@@ -7,21 +7,28 @@ function Projects() {
       title: "Personal Portfolio Website",
       desc: "Designed and developed a fully responsive personal portfolio using React.js, Bootstrap, and custom CSS. Implemented smooth navigation, reusable components, and modern UI design principles.",
       img: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=900&q=80",
-      github: "https://github.com/MANSIRAJUSHINDE/SUMAGO-INTERNSHIP/tree/master/FRONTEND/fourthapp",
+      github: "https://github.com/MANSIRAJUSHINDE/MRSportfolio",
       live: "#"
     },
     {
       title: "Expense Tracker App",
       desc: "Built a React app to track income and expenses with real-time updates.",
       img: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=900&q=80",
-      github: "https://github.com/MANSIRAJUSHINDE/zoblik-internships-2024-25/tree/main/zoblik-month-2/zapp",
+      github: "https://github.com/MANSIRAJUSHINDE/Expanse-Tracker-Final-Zoblik",
       live: "#"
     },
     {
       title: "Osteoporosis Prediction",
       desc: "Built a machine learning–based web application to predict osteoporosis risk using patient data.",
-      img: "https://images.unsplash.com/photo-1581595219315-a187dd40c322?auto=format&fit=crop&w=900&q=80",
-      github: "#",
+      img: "https://images.unsplash.com/photo-1508387027939-27cccde53673?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9uZSUyMHN0eWxlZHxlbnwwfHwwfHx8MA%3D%3D",
+      github: "https://github.com/renukason9456/Osteoporosis_Prediction_ml",
+      live: "#"
+    },
+    {
+      title: "Store Rating Application",
+      desc: "Built a role-based Store Rating Application using React, Node.js, Express, and MySQL. Features include user authentication, store management, rating submission, and admin dashboards with analytics.",
+      img: "https://images.pexels.com/photos/6250884/pexels-photo-6250884.jpeg",
+      github: "https://github.com/MANSIRAJUSHINDE/store-rating-application-Roxiler-Systems",
       live: "#"
     }
   ];

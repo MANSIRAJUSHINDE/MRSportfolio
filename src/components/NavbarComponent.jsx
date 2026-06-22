@@ -48,7 +48,7 @@ function NavbarComponent() {
               Contact
             </Nav.Link>
 
-            <Button className="green-btn ms-lg-4 mt-3 mt-lg-0" href="https://drive.google.com/file/d/1xHuNZKhy3YxzOOc7jmGTLZ0_3cBwy9jl/view?usp=drive_link" target="_blank">
+            <Button className="green-btn ms-lg-4 mt-3 mt-lg-0" href="https://drive.google.com/file/d/1rQuWJcVKbzPVAJKBnmcJ6sKFNv3Ek0EB/view?usp=drive_link" target="_blank">
               Resume
             </Button>
 
