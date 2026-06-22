@@ -16,8 +16,8 @@ function Skills() {
     { name: "VS Code", icon: "devicon-vscode-plain colored" },
     { name: "Jupyter Notebook", icon: "devicon-jupyter-plain colored" },
     { name: "REST API", icon: "devicon-fastapi-plain colored" },
-    { name: "Postman", icon: "devicon-postman-plain colored" },
-    { name: "Data Structures & Algorithms", icon: "devicon-java-plain colored" }
+     { name: "Postman", icon: "devicon-postman-plain colored" },
+     { name: "DSA", icon: "devicon-algorithm-plain" }
   ];
 
   return (
